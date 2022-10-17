@@ -20,15 +20,15 @@
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I’m getting familiar with Cloud Native :wink:;
+- 👨🏽‍💻 I’m getting familiar with Cloud Native :wink:
 
 - 🌱 I’m currently learning about **CI-CD & Kubernetes**
 
 - 👨‍💻 Visit [My Website](https://ahtesham007.github.io/ahtesham-portfolio/)
 
-- 📝 Mostly I work on Applications based on Python, Java, JS, and Flutter ,!
+- 📝 Mostly I work on Applications based on Python, Java, JS, Linux, Flutter
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me : zsyedahtesham@gmail.com
 
