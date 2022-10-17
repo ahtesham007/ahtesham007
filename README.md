@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning about **CI-CD & Kubernetes**
 
-- 👨‍💻 All about me is at [My Website](https://ahtesham007.github.io/ahtesham-portfolio/)-->
+- 👨‍💻 Visit [My Website](https://ahtesham007.github.io/ahtesham-portfolio/)
 
 - 📝 Mostly I work on Applications based on Python, Java, JS, and Flutter ,!
 
